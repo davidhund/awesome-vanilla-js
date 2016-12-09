@@ -29,6 +29,10 @@ Vanilla JS snippets for common jQuery methods and functions. Shows IE compatibil
 
 In addition to [youmightnotneedjquery.com](http://youmightnotneedjquery.com/) this is a list of commonly used plugins without dependencies.
 
+### [Frend.co](https://frend.co/)
+
+Modest and dependency-free components. Built with web standards, compliant, keyboard navigable and properly interpreted by assistive technologies.
+
 ### [Microjs.com](http://microjs.com/)
 
 Microjs.com helps you discover the most compact-but-powerful microframeworks, and makes it easy for you to pick one that’ll work for you.

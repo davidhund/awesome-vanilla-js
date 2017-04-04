@@ -74,6 +74,10 @@ Nicolas Bevacqua again. This time outlining how we could go about creating our o
 
 James Halliday ([substack](https://github.com/substack)) points out how a big dependancy like jQuery can make “a tiny frontend module much bigger and more cumbersome than it needs to be.” and is therefore “unattractive” in an ecosystem of “tiny reusable components.”
 
+### [“The Basics of DOM Manipulation in Vanilla JavaScript”](https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/)
+
+Sebastian Seitz gives you a crash course in DOM manipulation with vanilla JavaScript, abstracting the more verbose parts into a set of helper functions.
+
 
 
 ## Code

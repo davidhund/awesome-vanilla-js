@@ -29,6 +29,10 @@ Vanilla JS snippets for common jQuery methods and functions. Shows IE compatibil
 
 In addition to [youmightnotneedjquery.com](http://youmightnotneedjquery.com/) this is a list of commonly used plugins without dependencies.
 
+###  [The Vanilla JavaScript Toolkit](https://vanillajstoolkit.com)
+
+A growing collection of [code snippets](https://vanillajstoolkit.com/code-snippets), [helper functions](https://vanillajstoolkit.com/helpers), [polyfills](https://vanillajstoolkit.com/polyfills), [plugins](https://vanillajstoolkit.com/plugins), and [learning resources](https://vanillajstoolkit.com/resources), by [Chris&nbsp;Ferdinandi](https://gomakethings.com/).
+
 ### [Frend.co](https://frend.co/)
 
 Modest and dependency-free components. Built with web standards, compliant, keyboard navigable and properly interpreted by assistive technologies.

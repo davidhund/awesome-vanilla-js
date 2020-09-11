@@ -1,17 +1,9 @@
-# Awesome Plain—‘Vanilla’—Javascript
+# Awesome ‘Vanilla’ Javascript [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A simple listing of *plain*—*‘Vanilla’*—Javascript resources.
+A simple listing of *plain* — *[‘Vanilla’](http://vanilla-js.com/)* — Javascript resources.
 Because sometimes you don't need a big library such as jQuery (which remains awesome IMO).
 
-Have any other resources? [Discuss](), [PR]() or [Tweet @valuedstandards](https://twitter.com/valuedstandards)
-
-Thanks, [David Hund](http://valuedstandards.com)
-
-
-> **P.S.** [‘Vanilla’ JS](http://vanilla-js.com/) is not *‘better’* than jQuery et. al!
-jQuery is a very good library. [It can be argued](http://stackoverflow.com/a/3393922) that many plugins and functions in the resources below are ‘worse’: less well documented, tested, less cross-browser compatibility, etc. However: sometimes a swiss-army knife monolith such as jQuery is too much. Tiny, reusable & modular modules FTW!
-
-
+> **P.S.** ‘Vanilla’ JS is not *‘better’* than jQuery et. al! jQuery is a very good library. [It can be argued](http://stackoverflow.com/a/3393922) that many plugins and functions in the resources below are ‘worse’: less well documented, tested, less cross-browser compatibility, etc. However: sometimes a swiss-army knife monolith such as jQuery is too much. Tiny, reusable & modular modules FTW!
 
 ## Lists
 

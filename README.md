@@ -13,9 +13,34 @@ jQuery is a very good library. [It can be argued](http://stackoverflow.com/a/339
 
 ## Contents
 
+- [Components](#components)
+  - [Tooltips](#tooltips)
+  - [Dropdowns](#dropdowns)
+  - [Modals](#modals)
+  - [File Uploaders](#file-uploaders)
 - [Lists](#lists)
 - [Articles](#articles)
 - [Code](#code)
+
+## Components
+
+### Tooltips
+
+- [TippyJS](https://atomiks.github.io/tippyjs/) - "The complete tooltip, popover, dropdown, and menu solution for the web"
+
+### Dropdowns
+
+- [Slim Select](https://slimselectjs.com/) - Slim advanced select dropdown
+- [tail.select](https://github.pytes.net/tail.select/) - A multiselect component with a lot of options
+- [Choices](https://joshuajohnson.co.uk/Choices/) - A lightweight, configurable select box/text input plugin
+
+### Modals
+
+- [Micro Modal](https://micromodal.now.sh/) - A lightweight, configurable and a11y-enabled modal
+
+### File Uploaders
+
+- [Filepond](https://pqina.nl/filepond/) - "A JavaScript library that can upload anything you throw at it, optimizes images for faster uploads, and offers a great, accessible, silky smooth user experience."
 
 ## Lists
 

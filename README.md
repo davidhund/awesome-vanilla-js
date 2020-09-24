@@ -42,6 +42,10 @@ jQuery is a very good library. [It can be argued](http://stackoverflow.com/a/339
 
 - [Filepond](https://pqina.nl/filepond/) - "A JavaScript library that can upload anything you throw at it, optimizes images for faster uploads, and offers a great, accessible, silky smooth user experience."
 
+### Switches
+
+- [Simple Switch](https://github.com/aeolingamenfel/simple-switch) - Simple, accessible, performant implementation of the Switch UI element.
+
 ## Lists
 
 Listing native methods, functions and plugins

@@ -31,6 +31,7 @@ Because sometimes you don't need a big library such as jQuery (which remains awe
 ### Modals
 
 - [Micro Modal](https://micromodal.now.sh/) - A lightweight, configurable and a11y-enabled modal
+- [Lightweight Modal](https://idurar.github.io/vanilla-js-modal/) - Lightweight vanilla js modal component (just 2kb) , With No dependencies
 
 ### File Uploaders
 

@@ -62,7 +62,6 @@ Articles on moving away from jQuery towards native Javascript
 - [“Essentials to learning JavaScript from a jQuery background”](http://toddmotto.com/is-it-time-to-drop-jquery-essentials-to-learning-javascript-from-a-jquery-background/) - [Todd Motto](http://toddmotto.com/) describes many native equivalents of jQuery methods and functions
 - [“Uncovering the Native DOM API”](http://ponyfoo.com/articles/uncovering-the-native-dom-api) - [Nicolas Bevacqua](http://ponyfoo.com/) ([@nzgb](https://twitter.com/nzgb)) covering the DOM API that libraries such as jQuery often ‘abstract away’ in their neat util functions.
 - [“Getting over jQuery”](http://ponyfoo.com/articles/getting-over-jquery) - Nicolas Bevacqua again. This time outlining how we could go about creating our own little ‘microlibrary’
-- [“weaning yourself off jquery”](http://substack.net/weaning_yourself_off_jquery) - James Halliday ([substack](https://github.com/substack)) points out how a big dependancy like jQuery can make “a tiny frontend module much bigger and more cumbersome than it needs to be.” and is therefore “unattractive” in an ecosystem of “tiny reusable components.”
 - [“The Basics of DOM Manipulation in Vanilla JavaScript”](https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/) - Sebastian Seitz gives you a crash course in DOM manipulation with vanilla JavaScript, abstracting the more verbose parts into a set of helper functions.
 
 ## Code

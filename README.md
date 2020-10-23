@@ -8,19 +8,17 @@ Because sometimes you don't need a big library such as jQuery (which remains awe
 ## Contents
 
 - [Components](#components)
-  - [Tooltips](#tooltips)
   - [Dropdowns](#dropdowns)
-  - [Modals](#modals)
   - [File Uploaders](#file-uploaders)
+  - [Modals](#modals)
+  - [ScrollSpy](#scrollspy)
+  - [Switches](#switches)
+  - [Tooltips](#tooltips)
 - [Lists](#lists)
 - [Articles](#articles)
 - [Code](#code)
 
 ## Components
-
-### Tooltips
-
-- [TippyJS](https://atomiks.github.io/tippyjs/) - "The complete tooltip, popover, dropdown, and menu solution for the web"
 
 ### Dropdowns
 
@@ -28,21 +26,25 @@ Because sometimes you don't need a big library such as jQuery (which remains awe
 - [tail.select](https://github.pytes.net/tail.select/) - A multiselect component with a lot of options
 - [Choices](https://joshuajohnson.co.uk/Choices/) - A lightweight, configurable select box/text input plugin
 
+### File Uploaders
+
+- [Filepond](https://pqina.nl/filepond/) - "A JavaScript library that can upload anything you throw at it, optimizes images for faster uploads, and offers a great, accessible, silky smooth user experience."
+
 ### Modals
 
 - [Micro Modal](https://micromodal.now.sh/) - A lightweight, configurable and a11y-enabled modal
 
-### File Uploaders
+### ScrollSpy
 
-- [Filepond](https://pqina.nl/filepond/) - "A JavaScript library that can upload anything you throw at it, optimizes images for faster uploads, and offers a great, accessible, silky smooth user experience."
+- [Gumshoe](https://github.com/cferdinandi/gumshoe) - Update a nav list based on scroll position.
 
 ### Switches
 
 - [Simple Switch](https://github.com/aeolingamenfel/simple-switch) - Simple, accessible, performant implementation of the Switch UI element.
 
-### ScrollSpy
+### Tooltips
 
-- [Gumshoe](https://github.com/cferdinandi/gumshoe) - Update a nav list based on scroll position.
+- [TippyJS](https://atomiks.github.io/tippyjs/) - "The complete tooltip, popover, dropdown, and menu solution for the web"
 
 ## Lists
 

@@ -40,6 +40,10 @@ Because sometimes you don't need a big library such as jQuery (which remains awe
 
 - [Simple Switch](https://github.com/aeolingamenfel/simple-switch) - Simple, accessible, performant implementation of the Switch UI element.
 
+### ScrollSpy
+
+- [Gumshoe](https://github.com/cferdinandi/gumshoe) - Update a nav list based on scroll position.
+
 ## Lists
 
 Listing native methods, functions and plugins

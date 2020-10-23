@@ -8,11 +8,14 @@ Because sometimes you don't need a big library such as jQuery (which remains awe
 ## Contents
 
 - [Components](#components)
+  - [Accordion](#accordion)
+  - [Carousel](#carousel)
   - [Dropdowns](#dropdowns)
   - [File Uploaders](#file-uploaders)
   - [Modals](#modals)
   - [ScrollSpy](#scrollspy)
   - [Switches](#switches)
+  - [Tabs](#tabs)
   - [Tooltips](#tooltips)
 - [Lists](#lists)
 - [Articles](#articles)
@@ -20,11 +23,21 @@ Because sometimes you don't need a big library such as jQuery (which remains awe
 
 ## Components
 
+### Accordion
+aka Collapsible
+
+- [Vanilla JS Accordion](https://github.com/zoltantothcom/vanilla-js-accordion) - Vanilla JavaScript accordion - accessible and super tiny.
+
+### Carousel
+
+- [Vanilla JS Carousel](https://github.com/zoltantothcom/vanilla-js-carousel) - Tiny JavaScript carousel with all the features most of us will ever need.
+
 ### Dropdowns
 
-- [Slim Select](https://slimselectjs.com/) - Slim advanced select dropdown
-- [tail.select](https://github.pytes.net/tail.select/) - A multiselect component with a lot of options
-- [Choices](https://joshuajohnson.co.uk/Choices/) - A lightweight, configurable select box/text input plugin
+- [Slim Select](https://slimselectjs.com/) - Slim advanced select dropdown.
+- [tail.select](https://github.pytes.net/tail.select/) - A multiselect component with a lot of options.
+- [Choices](https://joshuajohnson.co.uk/Choices/) - A lightweight, configurable select box/text input plugin.
+- [Vanilla JS Dropdown](https://github.com/zoltantothcom/vanilla-js-dropdown) - Tiny JavaScript replacement for `<select>` that makes styling easy and consistent.
 
 ### File Uploaders
 
@@ -32,7 +45,7 @@ Because sometimes you don't need a big library such as jQuery (which remains awe
 
 ### Modals
 
-- [Micro Modal](https://micromodal.now.sh/) - A lightweight, configurable and a11y-enabled modal
+- [Micro Modal](https://micromodal.now.sh/) - A lightweight, configurable and a11y-enabled modal.
 
 ### ScrollSpy
 
@@ -42,9 +55,16 @@ Because sometimes you don't need a big library such as jQuery (which remains awe
 
 - [Simple Switch](https://github.com/aeolingamenfel/simple-switch) - Simple, accessible, performant implementation of the Switch UI element.
 
+### Tabs
+
+- [Tabby](https://github.com/cferdinandi/tabby) - Lightweight, accessible vanilla JS toggle tabs.
+- [Vanilla JS Tabs](https://github.com/zoltantothcom/vanilla-js-tabs) - Vanilla JavaScript Tabs - simple and awesome.
+
 ### Tooltips
+aka Popovers
 
 - [TippyJS](https://atomiks.github.io/tippyjs/) - "The complete tooltip, popover, dropdown, and menu solution for the web"
+- [Vanilla JS Tooltip](https://github.com/zoltantothcom/vanilla-js-tooltip) - Vanilla Javascript tooltip. Accepts plain text and fancy HTML.
 
 ## Lists
 

@@ -8,41 +8,63 @@ Because sometimes you don't need a big library such as jQuery (which remains awe
 ## Contents
 
 - [Components](#components)
-  - [Tooltips](#tooltips)
+  - [Accordion](#accordion)
+  - [Carousel](#carousel)
   - [Dropdowns](#dropdowns)
-  - [Modals](#modals)
   - [File Uploaders](#file-uploaders)
+  - [Modals](#modals)
+  - [ScrollSpy](#scrollspy)
+  - [Switches](#switches)
+  - [Tabs](#tabs)
+  - [Tooltips](#tooltips)
 - [Lists](#lists)
 - [Articles](#articles)
 - [Code](#code)
 
 ## Components
 
-### Tooltips
+### Accordion
+aka Collapsible
 
-- [TippyJS](https://atomiks.github.io/tippyjs/) - "The complete tooltip, popover, dropdown, and menu solution for the web"
+- [Vanilla JS Accordion](https://github.com/zoltantothcom/vanilla-js-accordion) - Vanilla JavaScript accordion - accessible and super tiny.
+
+### Carousel
+
+- [Vanilla JS Carousel](https://github.com/zoltantothcom/vanilla-js-carousel) - Tiny JavaScript carousel with all the features most of us will ever need.
 
 ### Dropdowns
 
-- [Slim Select](https://slimselectjs.com/) - Slim advanced select dropdown
-- [tail.select](https://github.pytes.net/tail.select/) - A multiselect component with a lot of options
-- [Choices](https://joshuajohnson.co.uk/Choices/) - A lightweight, configurable select box/text input plugin
-
-### Modals
-
-- [Micro Modal](https://micromodal.now.sh/) - A lightweight, configurable and a11y-enabled modal
+- [Slim Select](https://slimselectjs.com/) - Slim advanced select dropdown.
+- [tail.select](https://github.pytes.net/tail.select/) - A multiselect component with a lot of options.
+- [Choices](https://joshuajohnson.co.uk/Choices/) - A lightweight, configurable select box/text input plugin.
+- [Vanilla JS Dropdown](https://github.com/zoltantothcom/vanilla-js-dropdown) - Tiny JavaScript replacement for `<select>` that makes styling easy and consistent.
 
 ### File Uploaders
 
 - [Filepond](https://pqina.nl/filepond/) - "A JavaScript library that can upload anything you throw at it, optimizes images for faster uploads, and offers a great, accessible, silky smooth user experience."
 
-### Switches
+### Modals
 
-- [Simple Switch](https://github.com/aeolingamenfel/simple-switch) - Simple, accessible, performant implementation of the Switch UI element.
+- [Micro Modal](https://micromodal.now.sh/) - A lightweight, configurable and a11y-enabled modal.
 
 ### ScrollSpy
 
 - [Gumshoe](https://github.com/cferdinandi/gumshoe) - Update a nav list based on scroll position.
+
+### Switches
+
+- [Simple Switch](https://github.com/aeolingamenfel/simple-switch) - Simple, accessible, performant implementation of the Switch UI element.
+
+### Tabs
+
+- [Tabby](https://github.com/cferdinandi/tabby) - Lightweight, accessible vanilla JS toggle tabs.
+- [Vanilla JS Tabs](https://github.com/zoltantothcom/vanilla-js-tabs) - Vanilla JavaScript Tabs - simple and awesome.
+
+### Tooltips
+aka Popovers
+
+- [TippyJS](https://atomiks.github.io/tippyjs/) - "The complete tooltip, popover, dropdown, and menu solution for the web"
+- [Vanilla JS Tooltip](https://github.com/zoltantothcom/vanilla-js-tooltip) - Vanilla Javascript tooltip. Accepts plain text and fancy HTML.
 
 ## Lists
 

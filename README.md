@@ -10,6 +10,7 @@ Because sometimes you don't need a big library such as jQuery (which remains awe
 - [Components](#components)
   - [Accordion](#accordion)
   - [Carousel](#carousel)
+  - [Drag and Drop](#drag-and-drop)
   - [Dropdowns](#dropdowns)
   - [File Uploaders](#file-uploaders)
   - [Modals](#modals)
@@ -31,6 +32,9 @@ aka Collapsible
 ### Carousel
 
 - [Vanilla JS Carousel](https://github.com/zoltantothcom/vanilla-js-carousel) - Tiny JavaScript carousel with all the features most of us will ever need.
+
+### Drag and drop
+- [SortableJS](https://sortablejs.github.io/sortablejs/) - JavaScript library for reorderable drag-and-drop lists
 
 ### Dropdowns
 

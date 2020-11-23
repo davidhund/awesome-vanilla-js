@@ -16,6 +16,7 @@ Because sometimes you don't need a big library such as jQuery (which remains awe
   - [Modals](#modals)
   - [ScrollSpy](#scrollspy)
   - [Switches](#switches)
+  - [Table of Contents](#table-of-contents)
   - [Tabs](#tabs)
   - [Tooltips](#tooltips)
 - [Lists](#lists)
@@ -58,6 +59,10 @@ aka Collapsible
 ### Switches
 
 - [Simple Switch](https://github.com/aeolingamenfel/simple-switch) - Simple, accessible, performant implementation of the Switch UI element.
+
+### Table of Contents
+
+- [Tocbot](https://tscanlin.github.io/tocbot/) - Generate a table of contents based on the heading structure of an html document
 
 ### Tabs
 

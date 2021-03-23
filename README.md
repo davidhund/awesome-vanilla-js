@@ -32,7 +32,9 @@ aka Collapsible
 
 ### Carousel
 
-- [Vanilla JS Carousel](https://github.com/zoltantothcom/vanilla-js-carousel) - Tiny JavaScript carousel with all the features most of us will ever need.
+- [SwiperJS](https://swiperjs.com/) - "The most modern mobile touch slider"
+- [Flickity](https://flickity.metafizzy.co/) - "Touch, responsive, flickable carousels"
+- [Vanilla JS Carousel](https://github.com/zoltantothcom/vanilla-js-carousel) - "Tiny JavaScript carousel with all the features most of us will ever need."
 
 ### Drag and drop
 - [SortableJS](https://sortablejs.github.io/sortablejs/) - JavaScript library for reorderable drag-and-drop lists

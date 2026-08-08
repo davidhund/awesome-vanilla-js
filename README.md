@@ -14,6 +14,7 @@ Because sometimes you don't need a big library such as jQuery (which remains awe
   - [Dropdowns](#dropdowns)
   - [File Uploaders](#file-uploaders)
   - [Modals](#modals)
+  - [Notifications](#notifications)
   - [ScrollSpy](#scrollspy)
   - [Switches](#switches)
   - [Table of Contents](#table-of-contents)
@@ -53,6 +54,10 @@ aka Collapsible
 ### Modals
 
 - [Micro Modal](https://micromodal.now.sh/) - A lightweight, configurable and a11y-enabled modal.
+
+### Notifications
+
+- [Bellnote Widget](https://github.com/Trooper15a/bellnote-widget) - Embeddable changelog widget with bell launcher and unread badge, under 5 KB gzipped, no cookies.
 
 ### ScrollSpy
 

@@ -109,6 +109,7 @@ Little Vanilla snippets—or microlibraries—of goodness
 - [Min.js](https://github.com/remy/min.js) - A super tiny JavaScript library to execute simple DOM querying and hooking event listeners by [Remy Sharp](https://remysharp.com/)
 - [Bind.js](https://github.com/remy/bind.js) - Two way data binding for HTML and JavaScript (with node.js compatibility) with additional support for transforming data before it arrives in the DOM. By Remy Sharp
 - [Bling.js](https://gist.github.com/paulirish/12fb951a8b893a454b32) - Paul Irish adds `$` (qSA) and `.on` in a few lines of goodness. Check comments for more (`Promise`, etc.)
+- [@tadashi/mask](https://github.com/lagden/mask) - Tiny, dependency-free ESM input masking (phone, CPF/CNPJ, currency, etc.), around 1KB min+gzip.
 
 ## Your turn!
 

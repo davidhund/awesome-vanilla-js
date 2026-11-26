@@ -15,6 +15,7 @@ Because sometimes you don't need a big library such as jQuery (which remains awe
   - [File Uploaders](#file-uploaders)
   - [Modals](#modals)
   - [ScrollSpy](#scrollspy)
+  - [Stories](#stories)
   - [Switches](#switches)
   - [Table of Contents](#table-of-contents)
   - [Tabs](#tabs)
@@ -57,6 +58,10 @@ aka Collapsible
 ### ScrollSpy
 
 - [Gumshoe](https://github.com/cferdinandi/gumshoe) - Update a nav list based on scroll position.
+
+### Stories
+
+- [videojs-story-view](https://github.com/hicay/videojs-story-view) - Dependency-free `<story-view>` custom element for Instagram-style video and image stories, with an optional Video.js plugin.
 
 ### Switches
 
